@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LIFFRoulette/static/css/main.8cdb21b7.css",
+    "main.js": "/LIFFRoulette/static/js/main.088cbd10.js",
+    "static/js/787.baab73f6.chunk.js": "/LIFFRoulette/static/js/787.baab73f6.chunk.js",
+    "index.html": "/LIFFRoulette/index.html",
+    "main.8cdb21b7.css.map": "/LIFFRoulette/static/css/main.8cdb21b7.css.map",
+    "main.088cbd10.js.map": "/LIFFRoulette/static/js/main.088cbd10.js.map",
+    "787.baab73f6.chunk.js.map": "/LIFFRoulette/static/js/787.baab73f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cdb21b7.css",
+    "static/js/main.088cbd10.js"
+  ]
+}
